@@ -2,7 +2,7 @@
 ## Hostel Maintenance Complaint Tracker for Babcock University
 
 Course: BU-209 Backend Engineering, Week 4 Assignment
-Team: Byte Syndicate
+Team: FixTrack
 Members:
 - Akorede Praise (Team Leader)
 - Adeyinka Adedotun
